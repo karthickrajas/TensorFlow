@@ -1,0 +1,9 @@
+# ignore all logs
+*.bat
+**/graphs
+**/Data
+Data/
+**/data
+*.logs
+*.log
+**/.ipynb_checkpoints
